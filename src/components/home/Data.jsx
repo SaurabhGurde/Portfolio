@@ -56,9 +56,9 @@ const Data = () => {
         </svg>
       </h1>
 
-      <h3 className="home__subtitle">Full Stack Developer</h3>
+      <h3 className="home__subtitle">Full Stack & DevOps Engineer</h3>
       <p className="home__description">
-        I'm creative developer based in Maharashtra, and very passionate and
+        I'm creative developer based in Maharashtra and
         dedicated towards my work.
       </p>
 

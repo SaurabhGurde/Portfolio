@@ -11,28 +11,21 @@ const Backend = () => {
             <i class="bx bxs-badge-check"></i>
             <div>
               <h3 className="skills__name">Node.js</h3>
-              <span className="skills__level">Intermediat</span>
+              {/* <span className="skills__level">Intermediat</span> */}
             </div>
           </div>
           <div className="skills__data">
             <i class="bx bxs-badge-check"></i>
             <div>
               <h3 className="skills__name">Express.js</h3>
-              <span className="skills__level">Intermediat</span>
+              {/* <span className="skills__level">Intermediat</span> */}
             </div>
           </div>
           <div className="skills__data">
             <i class="bx bxs-badge-check"></i>
             <div>
               <h3 className="skills__name">MongoDB</h3>
-              <span className="skills__level">Intermediat</span>
-            </div>
-          </div>
-          <div className="skills__data">
-            <i class="bx bxs-badge-check"></i>
-            <div>
-              <h3 className="skills__name">Asp .NET</h3>
-              <span className="skills__level">Basic</span>
+              {/* <span className="skills__level">Intermediat</span> */}
             </div>
           </div>
         </div>
@@ -42,21 +35,7 @@ const Backend = () => {
             <i class="bx bxs-badge-check"></i>
             <div>
               <h3 className="skills__name">MySql</h3>
-              <span className="skills__level">Intermediate</span>
-            </div>
-          </div>
-          <div className="skills__data">
-            <i class="bx bxs-badge-check"></i>
-            <div>
-              <h3 className="skills__name">Spring_boot</h3>
-              <span className="skills__level">Basic</span>
-            </div>
-          </div>
-          <div className="skills__data">
-            <i class="bx bxs-badge-check"></i>
-            <div>
-              <h3 className="skills__name">Java</h3>
-              <span className="skills__level">Intermediate</span>
+              {/* <span className="skills__level">Intermediate</span> */}
             </div>
           </div>
         </div>
