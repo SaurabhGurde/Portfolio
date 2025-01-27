@@ -10,6 +10,7 @@ import Work10 from "../../assets/Work10.png";
 import Work11 from "../../assets/work11.png";
 import Work12 from "../../assets/work12.png";
 import Work13 from "../../assets/work13.png";
+import Work14 from "../../assets/work14.png";
 
 export const projectsData = [
   {
@@ -29,9 +30,16 @@ export const projectsData = [
   {
     id: 12,
     image: Work13,
-    title: "Ecomvision dashboard",
+    title: "E-commerce site",
     category: "Full-Stack",
     link: "https://ecommerce.saurabhgurde.life",
+  },
+  {
+    id: 13,
+    image: Work14,
+    title: "E-commerce admin dashboard",
+    category: "Full-Stack",
+    link: "https://e-commerce-and-admin-dashboard-next-js-airg.vercel.app",
   },
   // {
   //   id: 1,
