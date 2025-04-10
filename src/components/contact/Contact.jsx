@@ -35,7 +35,7 @@ const Contact = () => {
               </span>
 
               <a
-                href="emailto:balrammelkunde1999@gmail.com"
+                href="emailto:saurabhgurde@gmail.com"
                 className="contact__button"
               >
                 Write me{" "}
@@ -50,7 +50,7 @@ const Contact = () => {
               <span className="contact__card-data">+91 9307229862</span>
 
               <a
-                href="https://api.whatsapp.com/send?phone=9834499411&text=Hello, more information"
+                href="https://api.whatsapp.com/send?phone=9307229862&text=Hello, more information"
                 className="contact__button"
               >
                 Write me{" "}
